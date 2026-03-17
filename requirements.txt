@@ -1,0 +1,100 @@
+livekit-agents
+uvicorn
+
+torch>=2.0.0              
+numpy>=1.24.0  
+
+onnxruntime>=1.16.0     
+torchaudio>=2.0.0  
+
+# Core
+streamlit
+requests
+
+# Audio (Optional - only if using advanced version)
+pyaudio
+numpy
+wave
+
+# LiveKit (Optional - only if you want real audio streaming)
+# livekit>=0.10.0
+
+# AI Service SDKs
+deepgram-sdk==3.4.0
+elevenlabs
+
+# livekit-server-sdk-python
+
+fastapi
+python-multipart
+pydantic
+pydantic-settings
+
+# DATABASE
+sqlalchemy
+psycopg2-binary
+alembic
+pgvector
+
+# LIVEKIT (WebRTC)
+livekit
+livekit-api
+livekit-agents
+
+# LLM & AI ORCHESTRATION
+groq
+openai
+langchain
+langchain-groq
+langchain-openai
+langgraph
+langchain-core
+
+# DOCUMENT PROCESSING (for Resume Parsing)
+pypdf
+python-docx
+unstructured
+langchain-community
+
+# UTILITIES
+python-dotenv
+requests
+aiohttp
+httpx
+pydantic[email]
+pydantic-settings
+
+# TESTING
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+
+# MONITORING & LOGGING
+sentry-sdk[fastapi]
+prometheus-client
+python-json-logger
+
+# SECURITY
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+
+# DEVELOPMENT TOOLS
+black==24.1.1
+flake8==7.0.0
+mypy==1.8.0
+pre-commit==3.6.0
+
+# CLOUD STORAGE (Optional)
+boto3==1.34.20  # AWS S3
+google-cloud-storage==2.14.0  # GCS
+
+# OPTIONAL -  SENTIMENT ANALYSIS
+# hume==0.4.0  
+
+langchain-text-splitters
+sentence-transformers
+
+
+

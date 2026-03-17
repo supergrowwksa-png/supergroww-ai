@@ -1,0 +1,13 @@
+{"timestamp": "2026-03-10T17:25:34.315815Z", "level": "INFO", "component": "score_storage", "message": "Storing answer evaluation score", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:40.259978Z", "level": "INFO", "component": "score_storage", "message": "Answer score stored successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:40.279613Z", "level": "INFO", "component": "score_storage", "message": "store_answer_score completed in 5882.90ms", "environment": "development", "interview_id": 1, "duration_ms": 5882.9}
+{"timestamp": "2026-03-10T17:26:14.617640Z", "level": "INFO", "component": "score_storage", "message": "Storing answer evaluation score", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:20.171680Z", "level": "INFO", "component": "score_storage", "message": "Answer score stored successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:20.181841Z", "level": "INFO", "component": "score_storage", "message": "store_answer_score completed in 5548.48ms", "environment": "development", "interview_id": 1, "duration_ms": 5548.48}
+{"timestamp": "2026-03-10T17:26:25.051469Z", "level": "INFO", "component": "score_storage", "message": "Storing Level 2 scores", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:29.783525Z", "level": "INFO", "component": "score_storage", "message": "\u2705 Level 2 scores committed to database", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:29.790699Z", "level": "INFO", "component": "score_storage", "message": "store_aggregated_scores completed in 4727.55ms", "environment": "development", "interview_id": 1, "duration_ms": 4727.55}
+{"timestamp": "2026-03-10T17:26:46.937350Z", "level": "INFO", "component": "score_storage", "message": "Storing answer evaluation score", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:50.693548Z", "level": "INFO", "component": "score_storage", "message": "Answer score stored successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:50.711749Z", "level": "INFO", "component": "score_storage", "message": "store_answer_score completed in 3763.32ms", "environment": "development", "interview_id": 1, "duration_ms": 3763.32}
+{"timestamp": "2026-03-10T17:27:09.152542Z", "level": "INFO", "component": "score_storage", "message": "Storing answer evaluation score", "environment": "development", "interview_id": 1}

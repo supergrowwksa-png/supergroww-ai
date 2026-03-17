@@ -1,0 +1,30 @@
+{"timestamp": "2026-03-10T17:10:00.164757Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "EvaluationQueueEnhanced initialized", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:00.175288Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Created global evaluation queue", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:00.181326Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": " Started 2 evaluation workers", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:12.508024Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "\ud83d\udd04 Worker 0 started", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:12.522445Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "\ud83d\udd04 Worker 1 started", "environment": "development"}
+{"timestamp": "2026-03-10T17:24:50.519855Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "EvaluationQueueEnhanced initialized", "environment": "development"}
+{"timestamp": "2026-03-10T17:24:50.529102Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Created global evaluation queue", "environment": "development"}
+{"timestamp": "2026-03-10T17:24:50.540161Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": " Started 2 evaluation workers", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:06.856911Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "\ud83d\udd04 Worker 0 started", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:06.865137Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "\ud83d\udd04 Worker 1 started", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:31.065008Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Evaluation queued (non-blocking)", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:31.205912Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Worker 0 processing", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:31.814081Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Evaluator loaded", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:40.461831Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Level 1 score stored", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:45.607556Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Worker 0 completed evaluation", "environment": "development", "interview_id": 1, "duration_ms": 14407.44}
+{"timestamp": "2026-03-10T17:25:45.617580Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "background_evaluation completed in 14374.93ms", "environment": "development", "interview_id": 1, "duration_ms": 14374.93}
+{"timestamp": "2026-03-10T17:26:13.659943Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Evaluation queued (non-blocking)", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:13.708654Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Worker 1 processing", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:20.356062Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Level 1 score stored", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:24.867825Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Topic 'Technical Background' complete - aggregating", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:29.804789Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Level 2 score stored for 'Technical Background'", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:29.980794Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Worker 1 completed evaluation", "environment": "development", "interview_id": 1, "duration_ms": 16272.63}
+{"timestamp": "2026-03-10T17:26:29.990843Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "background_evaluation completed in 16268.17ms", "environment": "development", "interview_id": 1, "duration_ms": 16268.17}
+{"timestamp": "2026-03-10T17:26:46.160576Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Evaluation queued (non-blocking)", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:46.202363Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Worker 1 processing", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:50.883735Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Level 1 score stored", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:55.152920Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Worker 1 completed evaluation", "environment": "development", "interview_id": 1, "duration_ms": 8951.06}
+{"timestamp": "2026-03-10T17:26:55.163401Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "background_evaluation completed in 8945.25ms", "environment": "development", "interview_id": 1, "duration_ms": 8945.25}
+{"timestamp": "2026-03-10T17:27:08.307206Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Evaluation queued (non-blocking)", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:27:08.353253Z", "level": "INFO", "component": "evaluation_queue_enhanced", "message": "Worker 1 processing", "environment": "development", "interview_id": 1}

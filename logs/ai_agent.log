@@ -1,0 +1,96 @@
+{"timestamp": "2026-03-10T17:10:03.867447Z", "level": "INFO", "component": "ai_agent", "message": "Initializing InterviewAgent", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:03.879058Z", "level": "INFO", "component": "ai_agent", "message": "Fetching job from database", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:08.619717Z", "level": "INFO", "component": "ai_agent", "message": "Job loaded successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:08.630344Z", "level": "INFO", "component": "ai_agent", "message": "Fetching candidate from database", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:09.069853Z", "level": "INFO", "component": "ai_agent", "message": "Candidate loaded successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:09.264492Z", "level": "INFO", "component": "ai_agent", "message": "Creating interview state graph", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:09.275038Z", "level": "INFO", "component": "ai_agent", "message": "Interview state graph created successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:12.446497Z", "level": "INFO", "component": "ai_agent", "message": "InterviewAgent initialized successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:12.485237Z", "level": "INFO", "component": "ai_agent", "message": "Starting interview", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:13.397878Z", "level": "INFO", "component": "ai_agent", "message": "Starting calibration phase", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:13.407435Z", "level": "INFO", "component": "ai_agent", "message": "calibration_node completed in 0.00ms", "environment": "development", "interview_id": 1, "duration_ms": 0.0}
+{"timestamp": "2026-03-10T17:10:13.415983Z", "level": "INFO", "component": "ai_agent", "message": "Calibration phase completed successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:13.458957Z", "level": "INFO", "component": "ai_agent", "message": "Loading interview context", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:13.478551Z", "level": "INFO", "component": "ai_agent", "message": "Interview context loaded successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:13.664843Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: Technical Background, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:13.824336Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: System Design, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:13.979428Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: Python Expertise, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.133936Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: CI/CD Experience, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.283018Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: Team Leadership, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.292578Z", "level": "INFO", "component": "ai_agent", "message": "context_loading_node completed in 822.30ms", "environment": "development", "interview_id": 1, "duration_ms": 822.3}
+{"timestamp": "2026-03-10T17:10:14.324217Z", "level": "INFO", "component": "ai_agent", "message": "Selecting next topic", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.331256Z", "level": "INFO", "component": "ai_agent", "message": "Selected topic: Technical Background", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.342574Z", "level": "WARNING", "component": "ai_agent", "message": "No cached context found for topic: Technical Background", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.358132Z", "level": "INFO", "component": "ai_agent", "message": "Checking if interview should continue", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:14.374988Z", "level": "INFO", "component": "ai_agent", "message": "Interview continues", "environment": "development"}
+{"timestamp": "2026-03-10T17:10:14.386675Z", "level": "INFO", "component": "ai_agent", "message": "Generating interview question", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.729847Z", "level": "ERROR", "component": "ai_agent", "message": "generate_question failed after 331.62ms", "environment": "development", "interview_id": 1, "duration_ms": 331.62, "stack_trace": "Traceback (most recent call last):\n  File \"C:\\Users\\rocka\\OneDrive\\Desktop\\AI Interview Platform Backend\\backend\\app\\interview\\ai_agent.py\", line 348, in question_generation_node\n    \"resume_context_length\": len(state.get('resume_context', ''))\n                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: object of type 'NoneType' has no len()"}
+{"timestamp": "2026-03-10T17:10:14.750928Z", "level": "ERROR", "component": "ai_agent", "message": "Exception occurred: TypeError: object of type 'NoneType' has no len()", "environment": "development", "stack_trace": "Traceback (most recent call last):\n  File \"C:\\Users\\rocka\\OneDrive\\Desktop\\AI Interview Platform Backend\\backend\\app\\interview\\ai_agent.py\", line 348, in question_generation_node\n    \"resume_context_length\": len(state.get('resume_context', ''))\n                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: object of type 'NoneType' has no len()", "interview_id": 1, "phase": "question_generation", "topic": "Technical Background"}
+{"timestamp": "2026-03-10T17:10:14.773570Z", "level": "WARNING", "component": "ai_agent", "message": "Using fallback question due to LLM error", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:10:14.801299Z", "level": "INFO", "component": "ai_agent", "message": "start_interview completed in 2306.27ms", "environment": "development", "interview_id": 1, "duration_ms": 2306.27}
+{"timestamp": "2026-03-10T17:10:14.945378Z", "level": "INFO", "component": "ai_agent", "message": "Interview started successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:24:55.645045Z", "level": "INFO", "component": "ai_agent", "message": "Initializing InterviewAgent", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:24:55.705477Z", "level": "INFO", "component": "ai_agent", "message": "Fetching job from database", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:01.070869Z", "level": "INFO", "component": "ai_agent", "message": "Job loaded successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:01.083144Z", "level": "INFO", "component": "ai_agent", "message": "Fetching candidate from database", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:01.421833Z", "level": "INFO", "component": "ai_agent", "message": "Candidate loaded successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:01.594354Z", "level": "INFO", "component": "ai_agent", "message": "Creating interview state graph", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:01.605432Z", "level": "INFO", "component": "ai_agent", "message": "Interview state graph created successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:06.819919Z", "level": "INFO", "component": "ai_agent", "message": "InterviewAgent initialized successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:06.827454Z", "level": "INFO", "component": "ai_agent", "message": "Starting interview", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:07.671354Z", "level": "INFO", "component": "ai_agent", "message": "Starting calibration phase", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:07.694219Z", "level": "INFO", "component": "ai_agent", "message": "calibration_node completed in 0.00ms", "environment": "development", "interview_id": 1, "duration_ms": 0.0}
+{"timestamp": "2026-03-10T17:25:07.707798Z", "level": "INFO", "component": "ai_agent", "message": "Calibration phase completed successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:07.739896Z", "level": "INFO", "component": "ai_agent", "message": "Loading interview context", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:07.753846Z", "level": "INFO", "component": "ai_agent", "message": "Interview context loaded successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.062019Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: Technical Background, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.248648Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: System Design, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.426835Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: Python Expertise, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.603512Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: CI/CD Experience, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.791229Z", "level": "INFO", "component": "ai_agent", "message": "Pre-fetched RAG for topic: Team Leadership, chunks found: 0", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.805803Z", "level": "INFO", "component": "ai_agent", "message": "context_loading_node completed in 1049.98ms", "environment": "development", "interview_id": 1, "duration_ms": 1049.98}
+{"timestamp": "2026-03-10T17:25:08.854828Z", "level": "INFO", "component": "ai_agent", "message": "Selecting next topic", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.865821Z", "level": "INFO", "component": "ai_agent", "message": "Selected topic: Technical Background", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.877749Z", "level": "WARNING", "component": "ai_agent", "message": "No cached context found for topic: Technical Background", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:08.897369Z", "level": "INFO", "component": "ai_agent", "message": "Checking if interview should continue", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:08.914549Z", "level": "INFO", "component": "ai_agent", "message": "Interview continues", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:08.927644Z", "level": "INFO", "component": "ai_agent", "message": "Generating interview question", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:10.090920Z", "level": "INFO", "component": "ai_agent", "message": "generate_question completed in 1148.67ms", "environment": "development", "interview_id": 1, "duration_ms": 1148.67}
+{"timestamp": "2026-03-10T17:25:10.102007Z", "level": "INFO", "component": "ai_agent", "message": "Question generated successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:10.122782Z", "level": "INFO", "component": "ai_agent", "message": "start_interview completed in 3280.09ms", "environment": "development", "interview_id": 1, "duration_ms": 3280.09}
+{"timestamp": "2026-03-10T17:25:10.129859Z", "level": "INFO", "component": "ai_agent", "message": "Interview started successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:31.151678Z", "level": "INFO", "component": "ai_agent", "message": "Processing user response", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:32.104745Z", "level": "INFO", "component": "ai_agent", "message": "Moving to next question in topic", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:32.744340Z", "level": "INFO", "component": "ai_agent", "message": "Generating interview question", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:34.059717Z", "level": "INFO", "component": "ai_agent", "message": "generate_question completed in 1169.87ms", "environment": "development", "interview_id": 1, "duration_ms": 1169.87}
+{"timestamp": "2026-03-10T17:25:34.111330Z", "level": "INFO", "component": "ai_agent", "message": "Question generated successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:25:45.735580Z", "level": "INFO", "component": "ai_agent", "message": "Next question ready", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:13.685987Z", "level": "INFO", "component": "ai_agent", "message": "Processing user response", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:13.821537Z", "level": "INFO", "component": "ai_agent", "message": "Topic 'Technical Background' complete - Level 2 will aggregate in background", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:13.850174Z", "level": "INFO", "component": "ai_agent", "message": "Moving to next topic", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:13.931831Z", "level": "INFO", "component": "ai_agent", "message": "Selecting next topic", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:13.941239Z", "level": "INFO", "component": "ai_agent", "message": "Selected topic: System Design", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:13.951344Z", "level": "WARNING", "component": "ai_agent", "message": "No cached context found for topic: System Design", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:13.973639Z", "level": "INFO", "component": "ai_agent", "message": "Checking if interview should continue", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:13.984720Z", "level": "INFO", "component": "ai_agent", "message": "Interview continues", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:14.020668Z", "level": "INFO", "component": "ai_agent", "message": "Generating interview question", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:14.487418Z", "level": "INFO", "component": "ai_agent", "message": "generate_question completed in 456.27ms", "environment": "development", "interview_id": 1, "duration_ms": 456.27}
+{"timestamp": "2026-03-10T17:26:14.507541Z", "level": "INFO", "component": "ai_agent", "message": "Question generated successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:14.528283Z", "level": "INFO", "component": "ai_agent", "message": "Next question ready", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:46.187246Z", "level": "INFO", "component": "ai_agent", "message": "Processing user response", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:46.301959Z", "level": "INFO", "component": "ai_agent", "message": "Moving to next question in topic", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:46.326120Z", "level": "INFO", "component": "ai_agent", "message": "Generating interview question", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:46.767421Z", "level": "INFO", "component": "ai_agent", "message": "generate_question completed in 430.25ms", "environment": "development", "interview_id": 1, "duration_ms": 430.25}
+{"timestamp": "2026-03-10T17:26:46.779516Z", "level": "INFO", "component": "ai_agent", "message": "Question generated successfully", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:26:46.793609Z", "level": "INFO", "component": "ai_agent", "message": "Next question ready", "environment": "development"}
+{"timestamp": "2026-03-10T17:27:08.335163Z", "level": "INFO", "component": "ai_agent", "message": "Processing user response", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:27:08.459491Z", "level": "INFO", "component": "ai_agent", "message": "Topic 'System Design' complete - Level 2 will aggregate in background", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:27:08.477223Z", "level": "INFO", "component": "ai_agent", "message": "Moving to next topic", "environment": "development"}
+{"timestamp": "2026-03-10T17:27:08.499353Z", "level": "INFO", "component": "ai_agent", "message": "Selecting next topic", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:27:08.516166Z", "level": "INFO", "component": "ai_agent", "message": "Selected topic: Python Expertise", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:27:08.539072Z", "level": "WARNING", "component": "ai_agent", "message": "No cached context found for topic: Python Expertise", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:27:08.560415Z", "level": "INFO", "component": "ai_agent", "message": "Checking if interview should continue", "environment": "development"}
+{"timestamp": "2026-03-10T17:27:08.570421Z", "level": "WARNING", "component": "ai_agent", "message": "Max questions reached. Concluding.", "environment": "development"}
+{"timestamp": "2026-03-10T17:27:08.588146Z", "level": "INFO", "component": "ai_agent", "message": "Generating interview conclusion", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:27:08.612021Z", "level": "INFO", "component": "ai_agent", "message": "Interview completed during graph execution", "environment": "development"}
+{"timestamp": "2026-03-10T17:27:08.621056Z", "level": "INFO", "component": "ai_agent", "message": "Interview marked as complete", "environment": "development", "interview_id": 1}

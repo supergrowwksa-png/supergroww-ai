@@ -1,0 +1,15 @@
+{"timestamp": "2026-03-10T17:25:31.245167Z", "level": "INFO", "component": "evaluation_agent", "message": "Creating singleton EvaluationAgent instance", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:31.267836Z", "level": "INFO", "component": "evaluation_agent", "message": "Initializing EvaluationAgent", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:31.768240Z", "level": "INFO", "component": "evaluation_agent", "message": "EvaluationAgent initialized successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:31.844751Z", "level": "INFO", "component": "evaluation_agent", "message": "Starting answer evaluation", "environment": "development"}
+{"timestamp": "2026-03-10T17:25:34.161736Z", "level": "INFO", "component": "evaluation_agent", "message": "llm_evaluation_call completed in 2234.75ms", "environment": "development", "duration_ms": 2234.75}
+{"timestamp": "2026-03-10T17:25:34.206161Z", "level": "INFO", "component": "evaluation_agent", "message": "Answer evaluation completed successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:13.723655Z", "level": "INFO", "component": "evaluation_agent", "message": "Starting answer evaluation", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:14.594529Z", "level": "INFO", "component": "evaluation_agent", "message": "llm_evaluation_call completed in 853.72ms", "environment": "development", "duration_ms": 853.72}
+{"timestamp": "2026-03-10T17:26:14.607571Z", "level": "INFO", "component": "evaluation_agent", "message": "Answer evaluation completed successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:46.217442Z", "level": "INFO", "component": "evaluation_agent", "message": "Starting answer evaluation", "environment": "development"}
+{"timestamp": "2026-03-10T17:26:46.914222Z", "level": "INFO", "component": "evaluation_agent", "message": "llm_evaluation_call completed in 685.77ms", "environment": "development", "duration_ms": 685.77}
+{"timestamp": "2026-03-10T17:26:46.927277Z", "level": "INFO", "component": "evaluation_agent", "message": "Answer evaluation completed successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:27:08.365124Z", "level": "INFO", "component": "evaluation_agent", "message": "Starting answer evaluation", "environment": "development"}
+{"timestamp": "2026-03-10T17:27:09.127407Z", "level": "INFO", "component": "evaluation_agent", "message": "llm_evaluation_call completed in 751.09ms", "environment": "development", "duration_ms": 751.09}
+{"timestamp": "2026-03-10T17:27:09.143480Z", "level": "INFO", "component": "evaluation_agent", "message": "Answer evaluation completed successfully", "environment": "development"}

@@ -1,0 +1,430 @@
+{"timestamp": "2026-03-10T17:04:15.056535Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:04:15.059555Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:04:15.061555Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:04:15.062556Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:04:15.065049Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:04:29.542574Z", "level": "INFO", "component": "api.main", "message": "GET /", "environment": "development", "duration_ms": 100.97}
+{"timestamp": "2026-03-10T17:04:29.809135Z", "level": "INFO", "component": "api.main", "message": "GET /favicon.ico", "environment": "development", "duration_ms": 10.0}
+{"timestamp": "2026-03-10T17:04:34.344305Z", "level": "INFO", "component": "api.main", "message": "GET /docs", "environment": "development", "duration_ms": 0.53}
+{"timestamp": "2026-03-10T17:04:37.421248Z", "level": "INFO", "component": "api.main", "message": "GET /openapi.json", "environment": "development", "duration_ms": 1529.93}
+{"timestamp": "2026-03-10T17:06:15.218709Z", "level": "INFO", "component": "api.main", "message": "Join request received", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:06:15.223470Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-10T17:06:15.224470Z", "level": "INFO", "component": "api.main", "message": "\u2705 Token generated successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:06:15.239922Z", "level": "INFO", "component": "api.main", "message": "POST /api/join-interview", "environment": "development", "duration_ms": 16.81}
+{"timestamp": "2026-03-10T17:08:30.252248Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:38.516954Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:38.517951Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:38.520495Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:38.521495Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:38.523491Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:47.822256Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:55.572366Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:55.573878Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:55.576021Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:55.578036Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:08:55.579037Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:09:19.334529Z", "level": "INFO", "component": "api.main", "message": "Join request received", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:09:19.338551Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-10T17:09:19.342565Z", "level": "INFO", "component": "api.main", "message": "\u2705 Token generated successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:09:19.374814Z", "level": "INFO", "component": "api.main", "message": "POST /api/join-interview", "environment": "development", "duration_ms": 39.78}
+{"timestamp": "2026-03-10T17:13:27.778303Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:03.238509Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:03.241531Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:03.243569Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:03.245569Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:03.247565Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:03.366238Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:13.715568Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:13.717568Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:13.718570Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:13.721609Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:13.724619Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:17.018851Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:28.150665Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:28.154212Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:28.157218Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:28.159237Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:28.160735Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:32.115583Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:42.378792Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:42.382333Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:42.387351Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:42.389354Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:42.390867Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:14:45.357911Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-10T17:17:47.907584Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-10T17:17:47.914833Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-10T17:17:47.916834Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-10T17:17:47.918831Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-10T17:17:47.920835Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-10T17:17:47.972109Z", "level": "INFO", "component": "api.main", "message": "GET /", "environment": "development", "duration_ms": 11.99}
+{"timestamp": "2026-03-10T17:17:48.051666Z", "level": "INFO", "component": "api.main", "message": "GET /favicon.ico", "environment": "development", "duration_ms": 1.0}
+{"timestamp": "2026-03-10T17:22:43.719999Z", "level": "INFO", "component": "api.main", "message": "GET /docs", "environment": "development", "duration_ms": 2.0}
+{"timestamp": "2026-03-10T17:22:45.851583Z", "level": "INFO", "component": "api.main", "message": "GET /openapi.json", "environment": "development", "duration_ms": 603.01}
+{"timestamp": "2026-03-10T17:23:45.623100Z", "level": "INFO", "component": "api.main", "message": "Join request received", "environment": "development", "interview_id": 1}
+{"timestamp": "2026-03-10T17:23:45.628121Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-10T17:23:45.633122Z", "level": "INFO", "component": "api.main", "message": "\u2705 Token generated successfully", "environment": "development"}
+{"timestamp": "2026-03-10T17:23:45.637122Z", "level": "INFO", "component": "api.main", "message": "POST /api/join-interview", "environment": "development", "duration_ms": 21.08}
+{"timestamp": "2026-03-10T17:26:57.180363Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T09:15:24.465646Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T09:15:24.467651Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T09:15:24.469646Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T09:15:24.471651Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T09:15:24.473649Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T09:24:13.597753Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T09:24:44.034333Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T09:24:44.053338Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T09:24:44.090352Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T09:24:44.119987Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T09:24:44.133885Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T09:47:13.974805Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T09:47:13.976823Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T09:47:13.981819Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T09:47:13.986827Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 20.1}
+{"timestamp": "2026-03-12T09:47:30.904745Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T09:47:30.906744Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T09:47:30.908761Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T09:47:30.915501Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 9.08}
+{"timestamp": "2026-03-12T09:47:52.582611Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T09:47:52.584630Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T09:47:52.586624Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T09:47:52.588629Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 9.03}
+{"timestamp": "2026-03-12T09:48:07.724524Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T09:48:07.728542Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T09:48:07.733479Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T09:48:07.738497Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 15.66}
+{"timestamp": "2026-03-12T09:50:11.769163Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T09:50:11.771183Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T09:50:11.773178Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T09:50:11.775792Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 10.63}
+{"timestamp": "2026-03-12T16:21:18.086162Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T16:21:18.088177Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T16:21:18.090177Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T16:21:18.094180Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 11.68}
+{"timestamp": "2026-03-12T16:22:48.593390Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T16:22:48.594390Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T16:22:48.597392Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T16:22:48.601390Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 13.19}
+{"timestamp": "2026-03-12T16:26:40.174166Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T16:26:40.177164Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T16:26:40.181707Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T16:26:40.186898Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 18.69}
+{"timestamp": "2026-03-12T16:31:23.952128Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T16:31:23.954146Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T16:31:23.956678Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T16:31:23.959706Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 11.53}
+{"timestamp": "2026-03-12T16:33:47.713453Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T16:33:47.811971Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 1.00ms", "environment": "development", "duration_ms": 1.0}
+{"timestamp": "2026-03-12T16:33:47.814829Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T16:33:47.824491Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 157.41}
+{"timestamp": "2026-03-12T16:48:02.250150Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T16:48:02.252148Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T16:48:02.254152Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T16:48:02.281743Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 48.67}
+{"timestamp": "2026-03-12T16:53:00.206636Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T16:53:00.209649Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T16:53:00.212647Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T16:53:00.327998Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 20.03}
+{"timestamp": "2026-03-12T17:00:25.076373Z", "level": "INFO", "component": "api.main", "message": "Starting Supergroww Backend via uvicorn", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:32.698247Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:32.700250Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:32.702249Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:32.704291Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:32.706287Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:55.941161Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:55.943163Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T17:00:55.945162Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T17:00:55.947178Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 11.01}
+{"timestamp": "2026-03-12T17:09:10.515972Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:10.518506Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:21.862060Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:21.866243Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:21.867790Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:21.869791Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:21.872341Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:22.571072Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:22.573618Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:22.574668Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:22.576654Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:09:22.579657Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:44.060636Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:44.060636Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.587949Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.590467Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.592494Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.594025Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.596043Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.910621Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.913673Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.916603Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.918593Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:11:55.920592Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:07.588398Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:07.605009Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.835821Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.838457Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.840545Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.843158Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.851301Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.870982Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.874156Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.876361Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.877905Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:18.878904Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:44.820881Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:44.823885Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T17:13:44.828116Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T17:13:44.834133Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 21.23}
+{"timestamp": "2026-03-12T17:17:21.223567Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:21.223567Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.023428Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.025926Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.028945Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.030944Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.032944Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.168609Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.171611Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.176142Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.179197Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:17:32.181197Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:18:13.900508Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T17:18:13.903508Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T17:18:13.905508Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development"}
+{"timestamp": "2026-03-12T17:18:13.912508Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 17.58}
+{"timestamp": "2026-03-12T17:33:13.941482Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:13.989464Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.056647Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.061673Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.064675Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.066679Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.068678Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.342073Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.345094Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.347070Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.350074Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:33:38.353074Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:34:53.138926Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T17:34:53.139938Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T17:34:53.141924Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "13c89d14-68d6-4448-814a-6b55fbbfb7f5"}
+{"timestamp": "2026-03-12T17:34:53.144927Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 12.77}
+{"timestamp": "2026-03-12T17:39:17.831333Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:17.832335Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.701557Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.705103Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.708119Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.711120Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.714099Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.852160Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.854195Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.856744Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.858745Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T17:39:41.859743Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:03:40.129498Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:03:40.132037Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T18:03:40.134302Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "48d1644a-0f21-4e1f-b522-aa3c90b3b09c"}
+{"timestamp": "2026-03-12T18:03:40.136333Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 12.4}
+{"timestamp": "2026-03-12T18:10:30.802269Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:30.802269Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.098414Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.100408Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.101920Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.102938Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.104935Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.168414Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.169414Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.170413Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.172415Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:10:39.174410Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:11:11.847358Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:11:11.848690Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T18:11:11.850710Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "c0e7a56e-8068-4dae-aa44-a823f4d97b0f"}
+{"timestamp": "2026-03-12T18:11:11.852827Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 14.63}
+{"timestamp": "2026-03-12T18:14:05.303839Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:05.305839Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.127869Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.130402Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.131920Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.133951Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.135951Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.155653Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.157660Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.160191Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.162737Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:18.163729Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:38.706962Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:38.725574Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.029960Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.031474Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.033497Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.035490Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.036494Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.187662Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.189829Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.191343Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.192359Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:14:47.194359Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:15:09.855886Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:15:09.858879Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 1.00ms", "environment": "development", "duration_ms": 1.0}
+{"timestamp": "2026-03-12T18:15:09.860052Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "b5e3f015-6d46-48f2-8c5f-e1adb2bb48ae"}
+{"timestamp": "2026-03-12T18:15:09.871420Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 23.6}
+{"timestamp": "2026-03-12T18:23:25.749810Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:23:25.752805Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T18:23:25.753862Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "1672af0f-154e-4fde-8184-680264c82435"}
+{"timestamp": "2026-03-12T18:23:25.756960Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 9.14}
+{"timestamp": "2026-03-12T18:35:09.410003Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:09.410003Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.813401Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.815951Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.817954Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.821471Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.822498Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.912453Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.914456Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.914980Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.915986Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:35:17.918990Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:41.936181Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:42.045639Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.599199Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.606276Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.613840Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.618387Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.623930Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.728561Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.734136Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.736151Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.737158Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:37:50.739152Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:38:40.836652Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:38:40.838645Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 1.00ms", "environment": "development", "duration_ms": 1.0}
+{"timestamp": "2026-03-12T18:38:40.840912Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "3ca56b88-c4c8-4bfc-8675-5986890b7f6a"}
+{"timestamp": "2026-03-12T18:38:40.845816Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 15.19}
+{"timestamp": "2026-03-12T18:55:35.313943Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:55:35.317914Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.97ms", "environment": "development", "duration_ms": 0.97}
+{"timestamp": "2026-03-12T18:55:35.321865Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "243688de-4508-4c54-ae43-ba43a7ffd6a9"}
+{"timestamp": "2026-03-12T18:55:35.324407Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 13.98}
+{"timestamp": "2026-03-12T18:57:34.747773Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:34.764869Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.420768Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.422766Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.425277Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.426293Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.428833Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.429835Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.431829Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.433830Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.475239Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:43.486333Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:57.265678Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:57:57.267677Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T18:57:57.269674Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "327b6e60-0f37-400e-bb35-1223da30dbb2"}
+{"timestamp": "2026-03-12T18:57:57.275689Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 13.53}
+{"timestamp": "2026-03-12T18:59:25.217968Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:25.222518Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.592826Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.596382Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.601396Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.602592Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.605218Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.843459Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.846005Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.848522Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.850523Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:33.852516Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:53.660022Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T18:59:53.665026Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T18:59:53.667193Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "f525ead1-06d4-420b-9157-d1908cca8c2b"}
+{"timestamp": "2026-03-12T18:59:53.670188Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 17.7}
+{"timestamp": "2026-03-12T19:02:45.697138Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:45.697138Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:53.925656Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:53.928659Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:53.930165Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:53.932186Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:53.935732Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:54.080715Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:54.082226Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:54.084766Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:54.086310Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:02:54.087308Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:03:16.377649Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-12T19:03:16.378665Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-12T19:03:16.380660Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "6c402747-1c6a-4adf-96d2-df28fc3ae713"}
+{"timestamp": "2026-03-12T19:03:16.383649Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 13.28}
+{"timestamp": "2026-03-12T19:05:49.332280Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:05:49.338799Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:11.964815Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:11.966807Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:11.969330Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:11.971355Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:11.974380Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:12.059388Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:12.061916Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:12.062914Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:12.066921Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:12.070450Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:13.274942Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:13.294037Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.699990Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.701991Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.704057Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.706056Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.708608Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.948724Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.952378Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.953372Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.955373Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:06:22.956371Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:21.592621Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:21.616237Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.519889Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.522900Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.524901Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.526901Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.529437Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.694090Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.697114Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.698627Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.700654Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-12T19:07:31.702640Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-12T19:08:06.989172Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-12T19:08:07.063718Z", "level": "INFO", "component": "api.main", "message": "\ud83d\uded1 Supegroww Backend shutting down", "environment": "development"}
+{"timestamp": "2026-03-16T07:52:45.923646Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-16T07:52:45.925644Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-16T07:52:45.927645Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-16T07:52:45.929646Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-16T07:52:45.930642Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-16T07:53:38.699245Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-16T07:53:38.701246Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-16T07:53:38.703247Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "fb7e5c83-dac1-4729-8a97-36e6a6f134c9"}
+{"timestamp": "2026-03-16T07:53:38.706261Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 54.65}
+{"timestamp": "2026-03-16T07:55:41.315726Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-16T07:55:41.320731Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-16T07:55:41.324805Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "5c92bc84-d285-47a3-8d4a-d385bd229d30"}
+{"timestamp": "2026-03-16T07:55:41.353830Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 24.11}
+{"timestamp": "2026-03-16T07:59:57.392099Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-16T07:59:57.394093Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-16T07:59:57.397094Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "a41ca4e6-16eb-4b72-8a9a-9508caac3d33"}
+{"timestamp": "2026-03-16T07:59:57.400096Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 12.0}
+{"timestamp": "2026-03-16T08:18:38.758827Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-16T08:18:38.760824Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-16T08:18:38.762829Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "990b8c40-2e38-4d6b-ba35-1bceecc28a6f"}
+{"timestamp": "2026-03-16T08:18:38.768826Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 13.37}
+{"timestamp": "2026-03-16T14:53:46.215918Z", "level": "INFO", "component": "api.main", "message": "\ud83d\ude80 Supegroww Backend starting up", "environment": "development"}
+{"timestamp": "2026-03-16T14:53:46.217910Z", "level": "INFO", "component": "api.main", "message": "Environment: Environment.DEVELOPMENT", "environment": "development"}
+{"timestamp": "2026-03-16T14:53:46.219919Z", "level": "INFO", "component": "api.main", "message": "Log Level: INFO", "environment": "development"}
+{"timestamp": "2026-03-16T14:53:46.220944Z", "level": "INFO", "component": "api.main", "message": "LiveKit URL: wss://ai-interview-hnusn9he.livekit.cloud", "environment": "development"}
+{"timestamp": "2026-03-16T14:53:46.222932Z", "level": "INFO", "component": "api.main", "message": "\u26a0\ufe0f  Make sure LiveKit agent is running: python backend/app/interview/agent.py dev", "environment": "development"}
+{"timestamp": "2026-03-16T14:53:48.200629Z", "level": "INFO", "component": "api.main", "message": "GET /", "environment": "development", "duration_ms": 33.56}
+{"timestamp": "2026-03-16T14:53:48.283406Z", "level": "INFO", "component": "api.main", "message": "GET /favicon.ico", "environment": "development", "duration_ms": 1.0}
+{"timestamp": "2026-03-16T14:54:19.787983Z", "level": "INFO", "component": "api.main", "message": "GET /", "environment": "development", "duration_ms": 15.48}
+{"timestamp": "2026-03-16T14:56:49.831037Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-16T14:56:49.834569Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-16T14:56:49.841154Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "66f871ec-f1e3-4e5e-9fde-e22892edfa33"}
+{"timestamp": "2026-03-16T14:56:49.844671Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 18.72}
+{"timestamp": "2026-03-16T15:13:29.852419Z", "level": "INFO", "component": "api.main", "message": "Start interview request from MERN backend", "environment": "development"}
+{"timestamp": "2026-03-16T15:13:29.854930Z", "level": "INFO", "component": "api.main", "message": "generate_livekit_token_from_mern completed in 0.00ms", "environment": "development", "duration_ms": 0.0}
+{"timestamp": "2026-03-16T15:13:29.865515Z", "level": "INFO", "component": "api.main", "message": "\u2705 Interview session created", "environment": "development", "interview_id": "ca19fdd3-6e9e-42a3-8c14-d967acbd6a6a"}
+{"timestamp": "2026-03-16T15:13:29.869738Z", "level": "INFO", "component": "api.main", "message": "POST /start-interview", "environment": "development", "duration_ms": 19.11}
+{"timestamp": "2026-03-16T15:39:00.515895Z", "level": "INFO", "component": "api.main", "message": "GET /docs", "environment": "development", "duration_ms": 10.15}
+{"timestamp": "2026-03-16T15:39:04.735006Z", "level": "INFO", "component": "api.main", "message": "GET /openapi.json", "environment": "development", "duration_ms": 691.17}
